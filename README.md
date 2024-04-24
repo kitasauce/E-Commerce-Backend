@@ -11,8 +11,8 @@ Clone this repository using the HTTPS method or downloading ZIP in the same sect
 2. Open the teminal in the main folder in an application like VS code 
 3. npm install for all the neccessary libraries 
 4. input your credentials in a .env file in the main folder 
-5. run npm run seed to seed the database 
-6. run npm start to start the server 
+5. run npm run seeds/index.js to seed the database 
+6. run npm run start to start the server 
 7. use insomnia to test the routes 
 
 ## License 
